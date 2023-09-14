@@ -1,10 +1,12 @@
 # tours app (nodejs)
 
-- have rouls of (admin , lead-guide , guide , user)
+- have roles  of (admin , lead-guide , guide , user)
 
 - have authorization and authentication
 
-- have securety agenist query injection , spam , and protiction form xss
+-  have security against query injection , spam, and protection form xss
+
+- error handling
 
 - user can signup, login, set review on tour ,reset password ,upload there photo , delete the account
 
